@@ -1,0 +1,33 @@
+.body{
+
+    box-sizing: border-box;
+    
+    }
+    
+.name{
+    width: 20%;
+    padding: 15px;
+}
+.email{
+    width: 40%;
+    padding: 15px;
+}
+.satisfied{
+    float: right;
+    width: 15%;
+    padding: 20px;
+
+}
+.sd{
+    list-style-type:none;
+    padding: 30px;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.box{
+    
+    margin: 10px;
+    
+    background-color: rgb(202, 198, 198);
+
+}
